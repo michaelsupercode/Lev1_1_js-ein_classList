@@ -1,0 +1,21 @@
+.headline {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 2.4rem;
+    color: tomato;
+    text-align: center; 
+}
+.liste {
+    font-size: 2rem;
+    list-style: none;
+    color: bisque;
+    text-align: center; 
+}
+.body {
+    font-family:Arial, Helvetica, sans-serif;
+    list-style: none;
+    width: 50vw;
+    margin: 0 auto;
+}
+buttons {
+    position: fixed;
+}
